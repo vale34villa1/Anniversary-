@@ -35,3 +35,21 @@ Está realizado con **React + Vite + TailwindCSS**.
 ```bash
 git clone https://github.com/TU-USUARIO/aniversario-web.git
 cd aniversario-web
+```
+
+#Estructura
+```bash
+aniversario-web/
+│
+├── public/               # Archivos estáticos (ej: música, video sorpresa)
+├── src/
+│   ├── components/
+│   │   └── AniversarioGameShowcase.jsx  # Componente principal
+│   ├── App.jsx            # Punto de entrada de la app
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+
