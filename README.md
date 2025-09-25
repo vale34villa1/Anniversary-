@@ -1,4 +1,4 @@
-# Aniversario 2 Años 🥰💖
+# Aniversario 2 Años 🥰
 
 Este es un proyecto especial diseñado como regalo de aniversario para una persona muy especial ✨️.
 Combina una **entrada romántica interactiva** ♥️, un **video sorpresa** 😊 y una **página temática con juegos inspirados en películas y ajedrez** 🥰.
