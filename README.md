@@ -1,14 +1,11 @@
-# 💖 Aniversario 2 Años in love 💖
+# Aniversario 2 Años in love 💖
 
 Este es un proyecto especial diseñado como regalo de aniversario para una persona muy especial ✨️.
-
 Combina una **entrada romántica interactiva** ♥️, un **video sorpresa** 😊 y una **página temática con juegos inspirados en películas y ajedrez** 🥰.
 
 Está realizado con **React + Vite + TailwindCSS**. 
 
----
-
-## ✨ Características principales
+# ✨ Características principales
 
 - 🌸 **Pantalla inicial romántica**  
   - Texto decorado: *“Feliz 2 años de aniversario”*.  
@@ -32,9 +29,7 @@ Está realizado con **React + Vite + TailwindCSS**.
   - Estilo **romántico kawaii** con gradientes, partículas de corazones y glassmorphism.  
   - Transiciones suaves, sombras y tipografía decorativa.  
 
----
-
-## 🚀 Instalación y uso
+# 🚀 Instalación y uso
 
 ### 1. Clonar repositorio
 ```bash
