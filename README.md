@@ -1,8 +1,10 @@
-# 💖 Aniversario Web – Feliz 2 Años 💖
+# 💖 Aniversario 2 Años in love 💖
 
-Este es un proyecto especial diseñado como regalo de aniversario.  
-Combina una **entrada romántica interactiva**, un **video sorpresa** y una **página temática con juegos inspirados en películas y ajedrez**.  
-Está hecho con **React + Vite + TailwindCSS**, y se puede desplegar fácilmente en **GitHub Pages**.  
+Este es un proyecto especial diseñado como regalo de aniversario para una persona muy especial ✨️.
+
+Combina una **entrada romántica interactiva** ♥️, un **video sorpresa** 😊 y una **página temática con juegos inspirados en películas y ajedrez** 🥰.
+
+Está realizado con **React + Vite + TailwindCSS**. 
 
 ---
 
