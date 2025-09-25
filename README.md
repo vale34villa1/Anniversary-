@@ -37,7 +37,7 @@ git clone https://github.com/TU-USUARIO/aniversario-web.git
 cd aniversario-web
 ```
 
-#Estructura
+### Estructura
 ```bash
 aniversario-web/
 │
